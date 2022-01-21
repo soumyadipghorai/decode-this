@@ -1,0 +1,1 @@
+The inspiration of this project came from an hackerrank problem called .................. which i loved solving. I instantly thought of other similar encryption algorithms and later the idea of this crazy game came into my mind. After learning Streamlit I felt its the best option for this project and I started coding. 
